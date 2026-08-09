@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -169,13 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
