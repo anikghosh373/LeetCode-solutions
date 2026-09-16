@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0097-interleaving-string) |
 | [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1406-stone-game-iii) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
