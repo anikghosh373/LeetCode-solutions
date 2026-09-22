@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0027-remove-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
