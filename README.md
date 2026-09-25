@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0097-interleaving-string](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0097-interleaving-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anikghosh373/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
