@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
