@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0097-interleaving-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anikghosh373/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anikghosh373/LeetCode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
