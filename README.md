@@ -131,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0101-symmetric-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikghosh373/LeetCode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0101-symmetric-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikghosh373/LeetCode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anikghosh373/LeetCode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
@@ -267,11 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anikghosh373/LeetCode-solutions/tree/master/0101-symmetric-tree) |
 ## Trie
 |  |
 | ------- |
